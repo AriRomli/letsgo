@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "914847055375",
+    "firebase_url": "https://schoolbike-2647a.firebaseio.com",
+    "project_id": "schoolbike-2647a",
+    "storage_bucket": "schoolbike-2647a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914847055375:android:af31b27fc96eb7dc",
+        "android_client_info": {
+          "package_name": "bengkelkreatif.letsgo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914847055375-804ta598833agurbml053ti86emohktu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "bengkelkreatif.letsgo",
+            "certificate_hash": "08c48bc19e550c4d198fd297daecece0cf485ec2"
+          }
+        },
+        {
+          "client_id": "914847055375-e1ilf4hm2s5rg8to1g50p3uf34miagfd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcJEr6hm9I5_Tu5xHTA0bRpBYF76B3TrI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914847055375-e1ilf4hm2s5rg8to1g50p3uf34miagfd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
