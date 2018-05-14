@@ -53,7 +53,7 @@ public class MainActivity extends AppCompatActivity {
 
         //before setContentView
         CalligraphyConfig.initDefault(new CalligraphyConfig.Builder()
-                                        .setDefaultFontPath("fonts/Beware.ttf")
+                                        .setDefaultFontPath("fonts/Arkhip_font.otf")
                                         .setFontAttrId(R.attr.fontPath)
                                         .build());
         setContentView(R.layout.activity_main);
@@ -139,7 +139,7 @@ public class MainActivity extends AppCompatActivity {
                                     @Override
                                     public void onSuccess(AuthResult authResult) {
                                         waitingDialog.dismiss();
-                                        startActivity(new Intent(MainActivity.this, Welcome.class));
+                                        startActivity(new Intent(MainActivity.this, Main2Activity.class));
                                         finish();
                                     }
 

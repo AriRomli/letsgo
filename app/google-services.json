@@ -1,35 +1,35 @@
 {
   "project_info": {
-    "project_number": "914847055375",
-    "firebase_url": "https://schoolbike-2647a.firebaseio.com",
-    "project_id": "schoolbike-2647a",
-    "storage_bucket": "schoolbike-2647a.appspot.com"
+    "project_number": "607938766611",
+    "firebase_url": "https://lets-go-4f70b.firebaseio.com",
+    "project_id": "lets-go-4f70b",
+    "storage_bucket": "lets-go-4f70b.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:914847055375:android:af31b27fc96eb7dc",
+        "mobilesdk_app_id": "1:607938766611:android:af31b27fc96eb7dc",
         "android_client_info": {
           "package_name": "bengkelkreatif.letsgo"
         }
       },
       "oauth_client": [
         {
-          "client_id": "914847055375-804ta598833agurbml053ti86emohktu.apps.googleusercontent.com",
+          "client_id": "607938766611-o1lapo67pnj0is3tnqumbban29svma14.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "bengkelkreatif.letsgo",
-            "certificate_hash": "08c48bc19e550c4d198fd297daecece0cf485ec2"
+            "certificate_hash": "4ef8b5ef515e58da1c022d329280b9cf08b5f25c"
           }
         },
         {
-          "client_id": "914847055375-e1ilf4hm2s5rg8to1g50p3uf34miagfd.apps.googleusercontent.com",
+          "client_id": "607938766611-ckhdr14vj9t9msnafcisvm3u9bh3l82n.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCcJEr6hm9I5_Tu5xHTA0bRpBYF76B3TrI"
+          "current_key": "AIzaSyCC2qpD7c3eayT_y_I9s2lLgbMEorpI3mU"
         }
       ],
       "services": {
@@ -40,7 +40,7 @@
           "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "914847055375-e1ilf4hm2s5rg8to1g50p3uf34miagfd.apps.googleusercontent.com",
+              "client_id": "607938766611-ckhdr14vj9t9msnafcisvm3u9bh3l82n.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

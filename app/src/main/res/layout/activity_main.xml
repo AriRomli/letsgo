@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/bgschoolbike"
+    android:background="@drawable/bgantarsiswa"
     android:id="@+id/rootLayout"
     tools:context="bengkelkreatif.letsgo.MainActivity">
 
@@ -26,7 +26,7 @@
             />
 
         <TextView
-            android:text="BIKE"
+            android:text="TO SCHOOL"
             android:layout_marginTop="10dp"
             android:textSize="26sp"
             android:textAlignment="center"
